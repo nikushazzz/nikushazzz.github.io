@@ -7,6 +7,8 @@
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
   </head>
   <body>
+    <img src="death cover"
+        height="200">
     <main>
         <h1>NeilasaGang</h1>
         <h1>death</h1>
